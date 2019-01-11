@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "learn react",
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "name": "Give 1 KSS session",
+      "isComplete": true
+    },
+    {
+      "id": 3,
+      "name": "start design challenge",
+      "isComplete": true
+    }
+  ]
+}
